@@ -1,0 +1,4 @@
+﻿  fin.c
+C:\Users\User\source\repos\pcdAssignmentFin\pcdAssignmentFin\fin.c(344): warning C4716: 'scoreCalculator': must return a value
+C:\Users\User\source\repos\pcdAssignmentFin\pcdAssignmentFin\fin.c(317): warning C4716: 'gradePointConvertion': must return a value
+  pcdAssignmentFin.vcxproj -> C:\Users\User\source\repos\pcdAssignmentFin\x64\Debug\pcdAssignmentFin.exe
